@@ -155,7 +155,7 @@ public class HelloApplication extends Application {
             // New game button - restart game
             newGameButton.setOnAction(e -> getChoice(choiceBox, lb3, lb6, root, grid, vbox, lb2, lb8, sportNameStored, submitButton));
 
-            stage.setTitle("Hangan game");
+            stage.setTitle("Hangman game");
 //            scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
             stage.setScene(scene);
             stage.show();
