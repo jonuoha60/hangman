@@ -1,4 +1,7 @@
 Hangman Game (JavaFX)
+<img width="628" height="680" alt="Screenshot 2026-03-30 030901" src="https://github.com/user-attachments/assets/c8bfafff-719e-40cc-b4a9-98edc08624a5" />
+<img width="673" height="678" alt="hangman" src="https://github.com/user-attachments/assets/c6de6b33-0b48-446b-8345-e8fc077e226b" />
+
 Setup Instructions
 Unzip the Project Files:
 Download and unzip the project folder.
